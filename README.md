@@ -30,6 +30,7 @@ Hi! My name is Vaedz and here are some things about me!
 ### Currently Learning:
 <div>
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="75px">
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg" width="75px">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-original.svg" width="75px">
 </div>
 
