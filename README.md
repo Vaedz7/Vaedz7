@@ -16,22 +16,24 @@ Hi! My name is Vaedz and here are some things about me!
 
 ## Languages:
 ### Proficient In:
+In order of proficiency
 <div>
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="75px">
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="75px">
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="75px">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="75px">
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="75px">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="75px">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="75px">
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="75px">
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="75px">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg" width="75px">
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="75px">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg" width="75px">
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="75px">
 </div>
 
 ### Currently Learning:
 <div>
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="75px">
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-original.svg" width="75px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/AssemblyScript_logo_2020.svg/2048px-AssemblyScript_logo_2020.svg.png" width="75px">
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" width="75px">
 </div>
 
 ## My Projects
@@ -46,3 +48,8 @@ Hi! My name is Vaedz and here are some things about me!
 
 ### I Contributed:
 <img src="https://avatars.githubusercontent.com/u/79730908?s=200&v=4" width="75px"><br>**Pokémon Automation**<br>Automate the Pokémon Games using an Arduino Board either by itself or with a more advanced Serial Connection! Learn more about it [here!](https://github.com/PokemonAutomation/About)<br>
+
+<br>
+
+### Currently Working On:
+<img src="https://github.com/Vaedz7/Vaedz7/blob/main/images/ace_logo.png?raw=true" width="75px"><br>**Ace SelfBot**<br>Multifunctional nitro sniper and commands selfbot.<br>
