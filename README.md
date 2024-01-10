@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://github.com/Vaedz7/Vaedz7/blob/fabcd5aa3c9f2ac4c80c7dd25effc5f9883f636d/images/vaedz.png" width="120px"><br>
+  <img src="https://www.vaedz.com/vaedzlogo.png" width="120px"><br>
   <img src="https://komarev.com/ghpvc/?username=Vaedz7&style=flat-square&color=blue" alt="">
+
 </div>
 
 <h1>
@@ -9,10 +10,7 @@
 </h1>
 Hi! My name is Vaedz and here are some things about me!
 
-## Account Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vaedz7&theme=github-dark-blue&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaedz7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 
 ## Languages:
 ### Proficient In:
@@ -36,7 +34,15 @@ In order of proficiency
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" width="75px">
 </div>
 
-## My Projects
+---
+
+## Account Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vaedz7&theme=github-dark-blue&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaedz7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## My Projects:
 ### I Created:
 <img src="https://github.com/Vaedz7/Vaedz7/blob/38d445b457e70a1526f654d1c6cac5a1caf10d00/images/deathnote.png" width="75px"><br>**DeathNote**<br>A Python-based computer virus that targets storage and RAM. It is currently undetected by many softwares.<br>
 
