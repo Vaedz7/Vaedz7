@@ -8,7 +8,7 @@
   Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
-Hi! My name is Vaedz and here are some things about me!
+Hi, my name is Vaed! Welcome to my profile!
 
 ---
 
@@ -58,4 +58,4 @@ In order of proficiency
 <br>
 
 ### Currently Working On:
-<img src="https://github.com/Vaedz7/Vaedz7/blob/main/images/ace_logo.png?raw=true" width="75px"><br>**Ace SelfBot**<br>Multifunctional nitro sniper and commands selfbot.<br>
+<img src="https://github.com/Vaedz7/QBuzzr/blob/2607a226523c93fb65df6c25881f4693994f4bd1/src/assets/favicon.png" width="75px"><br>**QBuzzr**<br>QBuzzr is an all-in-one QuizBowl practice tool for people of all skill level. We aim to deliver the best practice experience by providing you the most hi tech and innovative features. We hope that our efforts will make your study process more productive and enjoyable.<br>
