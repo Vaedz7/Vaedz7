@@ -58,4 +58,4 @@ In order of proficiency
 <br>
 
 ### Currently Working On:
-<img src="https://github.com/Vaedz7/QBuzzr/blob/2607a226523c93fb65df6c25881f4693994f4bd1/src/assets/favicon.png" width="75px"><br>**QBuzzr**<br>QBuzzr is an all-in-one QuizBowl practice tool for people of all skill level. We aim to deliver the best practice experience by providing you the most hi tech and innovative features. We hope that our efforts will make your study process more productive and enjoyable.<br>
+<img src="https://github.com/Vaedz7/QBuzzr/blob/2607a226523c93fb65df6c25881f4693994f4bd1/src/assets/favicon.png" width="75px"><br>**QBuzzr**<br>QBuzzr is an all-in-one QuizBowl practice tool for people of all skill level. We aim to deliver the best practice experience by providing you the most hi tech and innovative features. We hope that our efforts will make your study process more productive and enjoyable.<br>View beta version at [QBuzzr.Buzz](https://www.qbuzzr.buzz)
