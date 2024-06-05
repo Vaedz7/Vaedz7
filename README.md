@@ -37,8 +37,12 @@ In order of proficiency
 ---
 
 ## Account Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vaedz7&theme=github-dark-blue&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaedz7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://github-readme-streak-stats.herokuapp.com?user=Vaedz7&theme=github-dark-blue&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+  <img height=200 align="center" src="https://github-stats-liart.vercel.app/api?username=Vaedz7&hide=stars&theme=dark" />
+</a>
+<a href="https://github-stats-liart.vercel.app/api/top-langs/?username=Vaedz7&theme=dark&langs_count=5&hide=scss,shell,css&layout=donut">
+  <img height=200 align="center" src="https://github-stats-liart.vercel.app/api/top-langs/?username=Vaedz7&theme=dark&langs_count=5&hide=scss,shell,css&layout=donut" />
+</a>
 
 ---
 
