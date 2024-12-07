@@ -33,7 +33,7 @@ In order of proficiency
 ### Currently Learning:
 <div>
 <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" width="75px">
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" width="75px">
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg" width="75px">
 </div>
 
 ---
